@@ -1,0 +1,3 @@
+This folder is for downloading packages only for this Environment
+Since this is a basic python game we don't need any seperate packages
+This is only for practise.
